@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TuanHoang - Full Stack java Developer from VIETNAM <3
+- 👋 Hi, I’m TuanHoang - Full Stack Java Developer from VIETNAM <3
 - 👀 I’m interested in <3
 - 🌱 I’m currently learning <3
 - 💞️ I’m looking to collaborate on <3
